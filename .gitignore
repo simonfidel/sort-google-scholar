@@ -1,6 +1,7 @@
 *.csv
 *.log
 *.pdf
+*.~lock.*
 
 ### Python ###
 
