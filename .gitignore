@@ -2,6 +2,7 @@
 *.log
 *.pdf
 *.~lock.*
+*.bib
 
 ### Python ###
 
